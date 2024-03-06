@@ -1,3 +1,3 @@
-echo "Enter you fucking name"
-read jubilee
-echo "Your fuc**ing name is,$jubilee"
+echo "Enter you good name"
+read name
+echo "Your good name is,$name"
